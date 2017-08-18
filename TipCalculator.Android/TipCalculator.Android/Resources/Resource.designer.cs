@@ -1486,6 +1486,9 @@ namespace TipCalculator.Android
 			// aapt resource value: 0x7f0c002b
 			public const int buttonPanel = 2131492907;
 			
+			// aapt resource value: 0x7f0c0051
+			public const int calculateButon = 2131492945;
+			
 			// aapt resource value: 0x7f0c0057
 			public const int cancel_action = 2131492951;
 			
@@ -1549,17 +1552,20 @@ namespace TipCalculator.Android
 			// aapt resource value: 0x7f0c0061
 			public const int info = 2131492961;
 			
+			// aapt resource value: 0x7f0c0050
+			public const int inputBill = 2131492944;
+			
 			// aapt resource value: 0x7f0c005b
 			public const int line1 = 2131492955;
 			
 			// aapt resource value: 0x7f0c005f
 			public const int line3 = 2131492959;
 			
-			// aapt resource value: 0x7f0c0050
-			public const int linearLayout1 = 2131492944;
+			// aapt resource value: 0x7f0c0052
+			public const int linearLayout1 = 2131492946;
 			
-			// aapt resource value: 0x7f0c0053
-			public const int linearLayout2 = 2131492947;
+			// aapt resource value: 0x7f0c0054
+			public const int linearLayout2 = 2131492948;
 			
 			// aapt resource value: 0x7f0c0009
 			public const int listMode = 2131492873;
@@ -1584,6 +1590,12 @@ namespace TipCalculator.Android
 			
 			// aapt resource value: 0x7f0c000a
 			public const int normal = 2131492874;
+			
+			// aapt resource value: 0x7f0c0053
+			public const int outputTip = 2131492947;
+			
+			// aapt resource value: 0x7f0c0055
+			public const int outputTotal = 2131492949;
 			
 			// aapt resource value: 0x7f0c002d
 			public const int parentPanel = 2131492909;
@@ -1686,18 +1698,6 @@ namespace TipCalculator.Android
 			
 			// aapt resource value: 0x7f0c0034
 			public const int textSpacerNoButtons = 2131492916;
-			
-			// aapt resource value: 0x7f0c0051
-			public const int textView1 = 2131492945;
-			
-			// aapt resource value: 0x7f0c0052
-			public const int textView2 = 2131492946;
-			
-			// aapt resource value: 0x7f0c0054
-			public const int textView3 = 2131492948;
-			
-			// aapt resource value: 0x7f0c0055
-			public const int textView4 = 2131492949;
 			
 			// aapt resource value: 0x7f0c005c
 			public const int time = 2131492956;
